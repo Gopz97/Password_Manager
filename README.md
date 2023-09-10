@@ -9,5 +9,7 @@ It contains:
            - User can view their details(fetch from the database)
            - User can edit their details
            - create the Organization
+
+You can test each api using Postman.Add a authorization in header. The authorization token you get from the response of signup Api.
     
 
